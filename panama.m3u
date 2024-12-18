@@ -43,8 +43,6 @@ http://45.181.122.13:8000/play/019
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="News",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-id="RadioHogar.pa" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="Religious",Radio Hogar (720p)
-https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Central America
@@ -53,8 +51,6 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TropiQ997FM.pa" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="Music",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 tvg-id="TuCanalTV.pa" tvg-logo="https://i.imgur.com/JlpUQn0.png" group-title="Culture",Tu Canal TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCziREKwhu2KgoDVNlRrfMBw.m3u8
 #EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Undefined",TVE Internacional America (1080p)
@@ -69,3 +65,5 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/JxbC8Kj4Te6ZeH2w-d5IfA/stream/2fd7a707-b528-4611-b078-56d1d47e0cc2:CBF2/master.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=7PYvsSCvFOqikbhGZi0YlJJlzzBBUeQG&sid=GlQ7QBahGSoyg7YKa7frwUAGVD8guCbO&pid=wN9QAewyf4Tfk0RWgdXUZupLuUDCcCuv&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=6X4uZiI2TPLZYXaqnqKTsthE57bpkrP59lkxehoGZSR4uqJqWbtns8AaVbhkFTO9iu0R8NKdtDy&adInsertionGoogleStreamId=2fd7a707-b528-4611-b078-56d1d47e0cc2%3ACBF2&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1734630369781&ot=jakhXbBUCNCa_CJJZXbtWA&proto=https&pz=
 #EXTINF:-1 tvg-id="Telemetro.com" tvg-logo="https://www.telemetro.com/css-custom/311/favicons/apple-icon.png" group-title="General",Telemetro (720p)
 https://live-b2.cf.dmcdn.net/sec2(jekye0oS5KbfYm553IzdZfIxsrItYqXJgGxMe4kvcTyUNtXMlHL-RQhwxRsk-FN9TTcGG20YPBGnqZTz2OX6sOR96Hx7rTfIGrMR-PA-AoPWcya6YliGRBHj_ubI1ppf)/cloud/3/x8nlwwo/s/live-720.m3u8
+#EXTINF:-1 tvg-id="sertv.gob.pa" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-favicon.png" group-title="General",SERTV (720p)
+https://live-c.cf.dmcdn.net/sec2(cVRIcJvAufxCfn6uUZp-23qkUtWehS72inGn9liu8UFlI5LajoGrnAaRHu71yjv4UlHv-kVYgfbRi3OQtTNejE2Ia-wzaO2enRGvRF4qwiFoeOsgo6umJ07VkE3cKhOu)/dm/3/x81cvsk/s/live-720.m3u8
