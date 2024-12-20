@@ -66,3 +66,50 @@ https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/JxbC8
 https://live-b2.cf.dmcdn.net/sec2(jekye0oS5KbfYm553IzdZfIxsrItYqXJgGxMe4kvcTyUNtXMlHL-RQhwxRsk-FN9TTcGG20YPBGnqZTz2OX6sOR96Hx7rTfIGrMR-PA-AoPWcya6YliGRBHj_ubI1ppf)/cloud/3/x8nlwwo/s/live-720.m3u8
 #EXTINF:-1 tvg-id="sertv.gob.pa" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-favicon.png" tvg-name="SERTV" tvg-country="PA" tvg-language="es" group-title="General" tvg-chno="11",SERTV (720p)
 https://live-c.cf.dmcdn.net/sec2(cVRIcJvAufxCfn6uUZp-23qkUtWehS72inGn9liu8UFlI5LajoGrnAaRHu71yjv4UlHv-kVYgfbRi3OQtTNejE2Ia-wzaO2enRGvRF4qwiFoeOsgo6umJ07VkE3cKhOu)/dm/3/x81cvsk/s/live-720.m3u8
+#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Entertainment",AsianCrush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png" group-title="Legislative",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (720p)
+https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" user-agent="ExoPlayer2/2.37",Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1 (720p)
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2 (720p)
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3 (720p)
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4 (720p)
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cult Classic Movie Theater (1080p)
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MovieSphere Canada (1080p)
+https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Undefined",BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Cooking",BBC Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Casos de la Dra. Polo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News Network (1080p)
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+#EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Movies",90s Throwback
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two UK (1080p)
+https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Lifestyle",BBC Home & Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+#EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="Undefined",WIPR (1080p)
+https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
